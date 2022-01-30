@@ -1,0 +1,25 @@
+const colors = {
+  appPrimary: '#448a9a',
+  appSecondary: '#5eafa3',
+  appTertiary: '#3E8297',
+  appDarker: '#3b7d96',
+  textPrimary: '#030303',
+  textTertiary: '#7B7B7B',
+  textColor: '#565656',
+  textGrey: '#B4B4B4',
+  backgroundGrey: '#ECE9E975',
+  borderGrey: '#707070',
+  white: 'rgb(255, 255, 255)',
+  black: '#000000',
+  green: '#2D9213',
+  red: '#CE2626',
+  buttonColor: '#4A8F9A',
+  lightGrey: '#9B9B9B',
+  lightGreen: '#556950',
+  lightRed: '#8B7777',
+  lightBlue: '#468B99',
+  lightGray: '#877777',
+  brown: '#574545',
+};
+
+export default colors;
