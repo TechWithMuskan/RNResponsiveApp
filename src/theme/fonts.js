@@ -18,10 +18,10 @@ const weight = {
 };
 
 const type = {
-  mediumPoppins: 'Poppins-Medium',
-  regularPoppins: 'Poppins-Regular',
-  semiBoldPoppins: 'Poppins-SemiBold',
-  boldPoppins: 'Poppins-Bold',
+  montserratMedium: "Montserrat-Medium",
+  montserratRegular: "Montserrat-Regular",
+  montserratSemiBold: "Montserrat-SemiBold",
+  montserratBold: "Montserrat-Bold",
 };
 
 export default {
